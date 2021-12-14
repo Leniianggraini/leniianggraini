@@ -22,12 +22,6 @@ Here are some ideas to get you started:
   I am a bachelor graduate Electrical Engineering Student from Universitas Pertamina. Has a strong interest in data science and is well-versed in programming, statistics, mathematics, and engineering. I'm using these abilities to learn how to use machine learning, data mining, and other forms of data analytics and data visualisation technologies like R, Python, and SQL to address various business problems. Also have passionate about Big Data, Database, Artificial Intelligence, and IoT. I've participated in various Data Science training programmes, either as an internship or an apprenticeship programs.
 </p>
 
-<!-- ## 👁‍🗨 Visitors Count -->
-
-<!-- ![Visitor Count](https://profile-counter.glitch.me/{leniianggraini}/count.svg) -->
-
-<img align='right' src = "https://github.com/leniianggraini/github-stats-transparent/blob/output/generated/languages.svg">
-
  ## ⭐ Popular Repositories
 
 | 🎓 Courses | [DQLab](https://github.com/Leniianggraini/Data-Scientist-DQLab) · [Dicoding](https://github.com/Leniianggraini/Image-Classification-of-Rock-Paper-Scissors-CNN) |
