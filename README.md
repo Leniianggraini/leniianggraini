@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <!-- ## 👁‍🗨 Visitors Count -->
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/{myarist}/count.svg) -->
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{leniianggraini}/count.svg) -->
 
-<img align='right' src = "https://github.com/myarist/github-stats-transparent/blob/output/generated/languages.svg">
+<img align='right' src = "https://github.com/leniianggraini/github-stats-transparent/blob/output/generated/languages.svg">
 
  ## ⭐ Popular Repositories
 
