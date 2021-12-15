@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 | 🎓 Courses | [DQLab](https://github.com/Leniianggraini/Data-Scientist-DQLab) · [Dicoding](https://github.com/Leniianggraini/Image-Classification-of-Rock-Paper-Scissors-CNN) |
 |:--------|:--------------------|
-| ⚙ Projects | [Data Mining](https://github.com/Leniianggraini/Scrapy_Putusan) · [Skin Cancer Classification](https://github.com/Leniianggraini/Skin-Cancer-Classification) · [Packages](https://github.com/Leniianggraini/Packages-Assemble) | 
+| ⚙ Projects | [Skin Cancer Classification](https://github.com/Leniianggraini/Skin-Cancer-Classification) | 
 
 
 ## 🔍 Reach me at
