@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> It's me Leni!
 
 <p align="justify">
-  I am a bachelor graduate Electrical Engineering Student from Universitas Pertamina. Has a strong interest in data science and is well-versed in programming, statistics, mathematics, and engineering. I'm using these abilities to learn how to use machine learning, data mining, and other forms of data analytics and data visualisation technologies like R, Python, and SQL to address various business problems. Also have passionate about Big Data, Database, Artificial Intelligence, and IoT. I've participated in various Data Science training programmes, either as an internship or an apprenticeship programs.
+  I am a bachelor graduate Electrical Engineering Student from Universitas Pertamina. I'm passionate about doing research and experiments, as well as providing insights through data to solve problems, data analysis, and project management. And now, I am actively exploring and participating in hands-on real projects to improve my data skills in preparation for a career in Data & Analytics
 </p>
 
  ## ⭐ Popular Repositories
