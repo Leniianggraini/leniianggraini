@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> It's me Leni!
 
 <p align="justify">
-  I am a bachelor graduate Electrical Engineering Student from Universitas Pertamina. I'm passionate about doing research and experiments, as well as providing insights through data to solve problems, data analysis, and project management. And now, I am actively exploring and participating in hands-on real projects to improve my data skills in preparation for a career in Data & Analytics
+  I am a bachelor graduate Electrical Engineering Student from Universitas Pertamina. I'm passionate about doing research and experiments, as well as providing insights through data to solve problems, data analysis, and project management. And now, I am actively exploring and participating in hands-on real projects to improve my data skills in preparation for a career in Data & Analytics.
 </p>
 
  ## ⭐ Popular Repositories
